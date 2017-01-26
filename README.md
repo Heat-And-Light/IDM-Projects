@@ -1,2 +1,2 @@
 # IDM-Projectus
-will store code projects here
+Code-building lessons and minor projects
